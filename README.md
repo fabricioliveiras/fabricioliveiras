@@ -3,6 +3,6 @@
 ![fabricioliveiras's Top Language](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabricioliveiras&card_width=590&show_icons=true&theme=transparent)
 
 <div> 
-  <a href = "mailto:fabricio.craftgamerbr22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabricio-santos-2b5b86236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fabricio.oliveirasantos22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fabricioliveirasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
